@@ -1,1 +1,13 @@
-
+body {
+  background-color: black;
+  font: 100% Courier New;
+  margin: 20px;
+  line-height: 26px;
+}
+#main{
+  padding: 10px; 
+  color: #84c754;
+}
+div {
+  display:block;
+}
